@@ -4,6 +4,7 @@ let userGrid = document.querySelector('button');
 let div;
 let number = 3;
 
+
 addEventListener('DOMContentLoaded', () => {
     console.log('The DOM is fully loaded');
 });

@@ -28,6 +28,7 @@ body{
     height: 500px; 
     display: flex;
     flex-flow: row wrap;
+    border: 1px solid red;
 }
 
 .container2{
