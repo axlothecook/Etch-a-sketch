@@ -1,1 +1,3 @@
-# Etch-a-sketch
+# Etch-a-sketc
+
+## i wanted to die
